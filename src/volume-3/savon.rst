@@ -49,7 +49,7 @@ bien, mais il faut penser à un autre point important : les récipients et
 ustensiles.
 
 En effet, il est possible que certains plastiques soient attaqués
-par la soude, donc utilisez de préférence un récipient ne verre, ça évitera les
+par la soude, donc utilisez de préférence un récipient en verre, ça évitera les
 mauvaises surprises. Pour les ustensiles, évitez l'aluminium, il réagit assez
 violemment avec la soude.
 
